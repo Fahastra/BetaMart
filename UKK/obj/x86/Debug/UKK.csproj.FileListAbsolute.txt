@@ -1,0 +1,19 @@
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\DataBarang.mdb
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe.config
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.pdb
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Form1.resources
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Properties.Resources.resources
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.csproj.GenerateResource.Cache
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.exe
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.pdb
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe.config
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.exe
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.pdb
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\DataBarang.mdb
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.pdb
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.csprojResolveAssemblyReference.cache
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Form1.resources
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Properties.Resources.resources
+E:\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.csproj.GenerateResource.Cache
